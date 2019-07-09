@@ -8,5 +8,5 @@ let var4 =6;
 let mod = var3 % var4 ;
 let max=20 ;
 Math.max(1, 20, 3, 4, 5);
-let random =0 ;
+let random  ;
 Math.floor(Math.random() * 10) + 1;
