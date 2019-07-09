@@ -6,4 +6,5 @@ Math.floor(Math.random() * 10) + 1;
 let var3 =10;
 let var4 =6;
 let mod = var3 % var4 ;
+let max ;
 Math.max(1, 20, 3, 4, 5);
